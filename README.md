@@ -47,7 +47,7 @@ Each folder contains well-structured SQL solutions.
 
 ---
 
-
+![LeetCode SQL 50 Badge](Leetcode_SQL_50_completion_badge.png)
 
 
 
